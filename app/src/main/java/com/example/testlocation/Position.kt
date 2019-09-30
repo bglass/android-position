@@ -59,7 +59,6 @@ class Position (val main: MainActivity) {
             )
         }
 
-
     @SuppressLint("MissingPermission")
     protected fun startLocationUpdates() {
         // Create the location request
